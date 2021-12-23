@@ -7,4 +7,4 @@
 * CI Configuration
 * ...
 
-![JUnit-TDD](C:\Users\vankh\OneDrive\Pictures\Screenshots\2021-12-23)
+![JUnit-TDD](https://github.com/khanhtrann/math-util/blob/main/images/2021-12-23.png)
